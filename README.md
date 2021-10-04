@@ -1,4 +1,6 @@
 ### Hi there, I'm Rogelio 👋
+![my-banner](https://user-images.githubusercontent.com/78835316/135918539-edcde123-f6af-4023-9842-4f41716eda17.png)
+
 ```js
 const rogecs = {
   code: [Javascript, Python, HTML, CSS],
