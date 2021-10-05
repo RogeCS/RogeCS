@@ -1,3 +1,5 @@
+# Hi there, I'm Rogelio 👋
+
 ![banner](https://user-images.githubusercontent.com/78835316/135941203-160c951f-97dd-430d-8dad-c3b89630663d.png)
 
 ### About me
@@ -13,9 +15,8 @@ const rogelio = {
 }
 ```
 
----
 
-### Languages and Tools 
+# Languages and Tools 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -33,14 +34,18 @@ const rogelio = {
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 
----
+# Reach me
+<!--[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogelio.medina.cs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-rogelio-medina-lopez-orml/) 
+-->
+<p align="center">
+  <a href="mailto:rogelio.medina.cs@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/oscar-rogelio-medina-lopez-orml/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href=""><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+  <a href="https://twitter.com/RogeML"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+</p>
 
-### Reach me
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogelio.medina.cs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-rogelio-medina-lopez-orml/)
-
----
-### Github Stats
+# Github Stats
 <a href="https://github.com/RogeCS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogeCS&theme=light">
 </a>
