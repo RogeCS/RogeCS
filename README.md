@@ -1,8 +1,8 @@
 # Hi, I'm Rogelio 👋
-![my-banner](https://user-images.githubusercontent.com/78835316/135918539-edcde123-f6af-4023-9842-4f41716eda17.png)
+![Add a heading](https://user-images.githubusercontent.com/78835316/135941203-160c951f-97dd-430d-8dad-c3b89630663d.png)
 
 # About me
-I'am an IT engineer who loves frontend development and IT management. Some technologies I work with iclude NextJS, ReactJS, Javascript, and CSS.
+I'am a Student of IT Engineering who loves frontend development and IT management. Some technologies I work with iclude NextJS, ReactJS, Javascript, and CSS.
 ```js
 const rogelio = {
   fullName: "Oscar Rogelio Medina López",
