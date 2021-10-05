@@ -34,19 +34,22 @@ const rogelio = {
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 
+
 # Github Stats
-<a href="https://github.com/RogeCS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogeCS&theme=light">
-</a>
-<a href="https://github.com/RogeCS">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=RogeCS&show_icons=true&theme=light&line_height=40" alt="Rogelio's github stats"/>
-</a>
+<p align="left">
+  <a href="https://github.com/RogeCS">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogeCS&theme=light">
+  </a>
+  <a href="https://github.com/RogeCS">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RogeCS&show_icons=true&theme=light&line_height=40" alt="Rogelio's github stats"/>
+  </a>
+</p>
 
 # Reach me
 <!--[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogelio.medina.cs@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-rogelio-medina-lopez-orml/) 
 -->
-<p>
+<p align="right">
   <a href="mailto:rogelio.medina.cs@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/oscar-rogelio-medina-lopez-orml/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href=""><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
