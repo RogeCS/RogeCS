@@ -38,7 +38,7 @@ const rogelio = {
 <!--[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogelio.medina.cs@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-rogelio-medina-lopez-orml/) 
 -->
-<p align="center">
+<p>
   <a href="mailto:rogelio.medina.cs@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/oscar-rogelio-medina-lopez-orml/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href=""><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
