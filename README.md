@@ -1,17 +1,15 @@
 # Hi there, I'm Rogelio 👋
 
-![banner](https://user-images.githubusercontent.com/78835316/135941203-160c951f-97dd-430d-8dad-c3b89630663d.png)
-
 # About me
-I'am a Student of IT Engineering who loves frontend development and IT management. Some technologies I work with are: NextJS, ReactJS, Javascript, and CSS.
+I'am a Software Engineer who loves frontend development and IT management. Some technologies I work with are: React, Javascript, Typescript and Python.
 ```js
 const rogelio = {
   name: "Oscar Rogelio",
   lastname: "Medina López",
-  age: 22,
-  interests: ["IT management", "Frontend", "Backend"],
-  hobbies: ["Indoor Climbing", "Soccer", "Videogames"],
-  learning: ["Express JS", "Mongo DB"]
+  age: 26,
+  interests: ["IT management", "Frontend", "Backend", "Data Science"],
+  hobbies: ["Indoor Climbing", "Soccer", "Videogames", "Running"],
+  learning: ["Clumnar DBs"]
 }
 ```
 
